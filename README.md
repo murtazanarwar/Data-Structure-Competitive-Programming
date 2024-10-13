@@ -1,1 +1,1 @@
-"# Data-Structure-Competitive-Programming" 
+# My Data-Structure and Competitive-Programming Directive 
