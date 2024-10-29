@@ -1,15 +1,5 @@
-Test case 1: 52
-Largest odd number: 5
-
-Test case 2: 4206
-Largest odd number: 
-
-Test case 3: 35427
-Largest odd number: 35427
-
-Test case 4: 420
-Largest odd number: 
-
-Test case 5: 123456789
-Largest odd number: 123456789
-
+YES
+NO
+YES
+YES
+NO
