@@ -1,0 +1,7 @@
+min
+max
+minmax
+min_element
+max_element
+minmax_element
+clamp
