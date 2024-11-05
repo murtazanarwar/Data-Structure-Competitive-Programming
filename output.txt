@@ -1,1 +1,6 @@
-Rotated vector: 6 1 2 3 4 5 
+FIRST
+SECOND
+FIRST
+FIRST
+SECOND
+FIRST
